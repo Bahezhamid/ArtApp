@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="bridge_title">Sailing Under The Bridge</string>
+    <string name="bridge_description">Kat Kuan</string>
+    <string name="bridge_Year">(2017)</string>
+    <string name="flower_title">still life Of Blue Rose And Other Flowers</string>
+    <string name="flower_description">Owenn Scott</string>
+    <string name="flower_year">(2021)</string>
+</resources>
